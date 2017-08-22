@@ -1,0 +1,30 @@
+body {
+  background-color: #3498db;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.text-center {
+  margin-bottom: 10px;
+}
+
+.search div {
+  position: relative;
+}
+
+.search input {
+  padding: 5px;
+  display: none;
+  width: 250px;
+}
+
+.fa-search {
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.row a {
+  color: #333333;
+}
